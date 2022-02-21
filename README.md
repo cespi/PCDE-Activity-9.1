@@ -2,4 +2,4 @@
 ## “Repository for Activity 9.1” as a Markdown header.
 Activity 9.1 from the MITxPro course
 Just learning how to interact with GitHub
-URL: https://github.com/cespi/PCDE-Activity-9.1
+URL: https://cespi.github.io/PCDE-Activity-9.1/
